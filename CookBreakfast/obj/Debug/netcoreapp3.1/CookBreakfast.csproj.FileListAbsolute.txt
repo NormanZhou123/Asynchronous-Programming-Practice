@@ -1,0 +1,13 @@
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.csprojAssemblyReference.cache
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.csproj.CoreCompileInputs.cache
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.AssemblyInfoInputs.cache
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.AssemblyInfo.cs
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.exe
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.deps.json
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.runtimeconfig.json
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.runtimeconfig.dev.json
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.dll
+G:\C#practice\CookBreakfast\CookBreakfast\bin\Debug\netcoreapp3.1\CookBreakfast.pdb
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.dll
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.pdb
+G:\C#practice\CookBreakfast\CookBreakfast\obj\Debug\netcoreapp3.1\CookBreakfast.genruntimeconfig.cache
